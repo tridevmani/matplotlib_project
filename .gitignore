@@ -1,0 +1,50 @@
+# -----------------------------
+# Python cache files
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -----------------------------
+# Virtual Environment (DO NOT PUSH)
+# -----------------------------
+venv/
+env/
+ENV/
+
+# -----------------------------
+# Jupyter Notebook checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# System files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# IDE / Editor files
+# -----------------------------
+.vscode/
+.idea/
+
+# -----------------------------
+# Logs & temp files
+# -----------------------------
+*.log
+*.tmp
+
+# -----------------------------
+# Environment variables (optional)
+# -----------------------------
+.env
+
+# -----------------------------
+# IMPORTANT: DO NOT IGNORE THESE
+# -----------------------------
+# (So keep them OUT of ignore list)
+# outputs/
+# *.png
+# data/
